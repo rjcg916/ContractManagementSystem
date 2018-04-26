@@ -1,0 +1,10 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/Elan.SharePoint.LRFApproval/Elan.SharePoint.LRFApproval/ListTemplates
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=2149
+Elements.xml;1832087706;1;1323446734;
+ExecutiveApprovers.stp;1244206226;1;1323446734;
+FinancialAnalysitAssignment.stp;4290301842;1;1323446734;
+FinancialManagementAssignment.stp;1522512244;1;1323446734;
+LRFFinancialAssignment.stp;4104131898;1;1323446734;
+SharePointProjectItem.spdata;1839613453;1;1323446734;

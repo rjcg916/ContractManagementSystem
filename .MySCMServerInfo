@@ -1,5 +1,8 @@
 SCMBranch=WebGroup
-SCMRepository=WebGroup/CMS/Solutions/ElanCostCenterGroups/
+SCMRepository=WebGroup/CMS/Solutions/Elan.SharePoint.LRFApproval
 SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
-SCMBranchRepositoryID=1945
-ElanCostCenterGroups.sln;405547341;1;1331666520;
+SCMBranchRepositoryID=1985
+Elan.SharePoint.LRFApproval.csproj;3285149562;3;1331681862;
+Elan.SharePoint.LRFApproval.vssscc;4251315233;1;1323446730;
+key.snk;2076148728;3;1323446730;
+Elan.SharePoint.LRFApproval.sln;1285647524;4;1334934731;

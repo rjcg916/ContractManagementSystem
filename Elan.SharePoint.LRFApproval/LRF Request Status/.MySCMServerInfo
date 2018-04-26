@@ -1,0 +1,11 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/Elan.SharePoint.LRFApproval/Elan.SharePoint.LRFApproval/LRF Request Status/
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=1993
+Elements.xml;1572635094;3;1323446734;
+LRF Request Status.cs;4172253145;3;1323446734;
+LRF Request Status.webpart;3852852879;3;1323446734;
+SharePointProjectItem.spdata;3170479109;3;1323446734;
+LRF Request StatusUserControl.ascx;1669469476;3;1323446734;
+LRF Request StatusUserControl.ascx.cs;1305655712;4;1334934698;
+LRF Request StatusUserControl.ascx.designer.cs;101673063;3;1323446734;

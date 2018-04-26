@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="ListTemplates" Url="_catalogs/lt" Path="ListTemplates">
+    <File Url="ExecutiveApprovers.stp" Path="ExecutiveApprovers.stp" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="Title" Value="Executive Approvers" />
+      <Property Name="Language" Value="1033" />
+      <Property Name="FeatureID" Value="{00BFEA71-DE22-43B2-A848-C05709900100}" />
+    </File>
+  <File Path="LRFFinancialAssignment.stp" Url="ListTemplates/LRFFinancialAssignment.stp" />
+</Module>
+</Elements>

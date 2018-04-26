@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="LRF Request Status" List="113" Url="_catalogs/wp">
+    <File Path="LRF Request Status\LRF Request Status.webpart" Url="LRF Request Status.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Elan Custom Webparts" />
+    </File>
+  </Module>
+</Elements>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="ListTemplates\" Type="ElementManifest" />
+    <ProjectItemFile Source="ExecutiveApprovers.stp" Target="ListTemplates\" Type="ElementFile" />
+    <ProjectItemFile Source="LRFFinancialAssignment.stp" Target="ListTemplates\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

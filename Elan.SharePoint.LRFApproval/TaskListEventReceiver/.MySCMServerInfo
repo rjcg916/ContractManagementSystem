@@ -1,0 +1,6 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/Elan.SharePoint.LRFApproval/Elan.SharePoint.LRFApproval/TaskListEventReceiver
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=2000
+Elements.xml;3764400989;5;1332274706;
+TaskListEventReceiver.cs;4090428505;11;1334360573;

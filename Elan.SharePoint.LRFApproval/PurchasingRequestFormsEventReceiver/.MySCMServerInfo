@@ -1,0 +1,7 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/Elan.SharePoint.LRFApproval/Elan.SharePoint.LRFApproval/PurchasingRequestFormsEventReceiver
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=2150
+Elements.xml;2109110092;1;1323446734;
+PurchasingRequestFormsEventReceiver.cs;3391220462;1;1326237830;
+SharePointProjectItem.spdata;4012927486;1;1323446734;

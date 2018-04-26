@@ -1,0 +1,7 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/Elan.SharePoint.LRFApproval/Elan.SharePoint.LRFApproval/AgreementsEventReceiver/
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=1989
+Elements.xml;2700357871;3;1328769450;
+SharePointProjectItem.spdata;3001101688;3;1323446732;
+AgreementsEventReceiver.cs;364228084;8;1335334710;

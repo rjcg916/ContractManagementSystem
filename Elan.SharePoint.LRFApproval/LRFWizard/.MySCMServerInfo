@@ -1,0 +1,8 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/Elan.SharePoint.LRFApproval/Elan.SharePoint.LRFApproval/LRFWizard/
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=1990
+Elements.xml;224735363;3;1329787226;
+LRFWizard.cs;331864212;3;1329788328;
+LRFWizard.webpart;2452418422;3;1329785907;
+SharePointProjectItem.spdata;2464495786;3;1329785908;

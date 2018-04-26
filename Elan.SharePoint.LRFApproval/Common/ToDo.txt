@@ -1,0 +1,13 @@
+﻿
+
+0) Issue 51 - Cost Center
+    tested
+	how to surface these items
+	script to propagate changes
+
+1) Issue 110 & 132 - Purchasing Form
+    need to test
+
+2) SAP Codes
+    refresh program
+	deploy version to prohibit deletions

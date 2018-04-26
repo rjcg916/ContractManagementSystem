@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2192dbd4-aee8-4c93-98c4-0f82cfbecabe" solutionId="2192dbd4-aee8-4c93-98c4-0f82cfbecabe" resetWebServer="false" name="Elan.SharePoint.LRFApproval" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="CabLib.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="bin\Debug\CabLib.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="f957413f-b32a-4c2b-8153-e03e69017717" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="52688236-480e-4712-9ce0-4b0c9b2877cc" />
+  </projectItems>
+</package>

@@ -1,0 +1,213 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Elan.SharePoint.LRFApproval.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ListTitleExecutiveApprovers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Executive Approvers</Value>
+    </Setting>
+    <Setting Name="ListTitleFinancialAssignment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Financial Assignment</Value>
+    </Setting>
+    <Setting Name="UserprofileFieldBand" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OrgBand</Value>
+    </Setting>
+    <Setting Name="UserProfileFieldAuthAmount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AuthAppAmt</Value>
+    </Setting>
+    <Setting Name="FieldLRFFormApprovers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Approvers</Value>
+    </Setting>
+    <Setting Name="VPOfFinanceTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">VP Finance</Value>
+    </Setting>
+    <Setting Name="FieldLRFFormRequestAmount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EstimatedAmount</Value>
+    </Setting>
+    <Setting Name="ListTitleLRF" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Legal Request Forms</Value>
+    </Setting>
+    <Setting Name="FieldUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">User</Value>
+    </Setting>
+    <Setting Name="FieldCostCenter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CostCenter</Value>
+    </Setting>
+    <Setting Name="FieldLRFDeptApprovers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DeptApprovers</Value>
+    </Setting>
+    <Setting Name="FieldLRFFinancialApprovers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FinancialApprovers</Value>
+    </Setting>
+    <Setting Name="FieldLRFExecutiveApprovers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ExecutiveApprovers</Value>
+    </Setting>
+    <Setting Name="QSRequestSummaryPage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CustomID</Value>
+    </Setting>
+    <Setting Name="FieldLRFStatus" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LRFFileStatusHidden</Value>
+    </Setting>
+    <Setting Name="FieldAgreementStatus" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Agement_x0020_Status</Value>
+    </Setting>
+    <Setting Name="ListTitleCostCenterSAP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CostCenterSAP</Value>
+    </Setting>
+    <Setting Name="FieldCostCenterDescription" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">description</Value>
+    </Setting>
+    <Setting Name="BDCEntityNamespace" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://phxsp10wd-vn01:2000</Value>
+    </Setting>
+    <Setting Name="BDCEntityName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CostCenterSAP</Value>
+    </Setting>
+    <Setting Name="BDCFinderView" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Read List</Value>
+    </Setting>
+    <Setting Name="ListTitleLRFIssuesLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LRF Issues Log</Value>
+    </Setting>
+    <Setting Name="FieldLRFIssueID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LRFID</Value>
+    </Setting>
+    <Setting Name="FieldLRFIssueUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LRFUrl</Value>
+    </Setting>
+    <Setting Name="GroupCostCenterSuperUserPrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CostCenterSuperUser_</Value>
+    </Setting>
+    <Setting Name="GroupCostCenterUserPrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CostCenterUser_</Value>
+    </Setting>
+    <Setting Name="GroupCostCenterProfilePrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CostCenterProfile_</Value>
+    </Setting>
+    <Setting Name="GroupLRFSuperUsers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LRF super users</Value>
+    </Setting>
+    <Setting Name="GroupLegalTeam" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Legal Team</Value>
+    </Setting>
+    <Setting Name="GroupLegalCenterOwner" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Legal Center Owners</Value>
+    </Setting>
+    <Setting Name="GroupFinanceTeam" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Finance Team</Value>
+    </Setting>
+    <Setting Name="FieldLRRequestor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RequestorHidden</Value>
+    </Setting>
+    <Setting Name="FieldLRFIssueErrorDetails" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Error</Value>
+    </Setting>
+    <Setting Name="FieldUserType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">UserType</Value>
+    </Setting>
+    <Setting Name="FieldValueAnalyst" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Analyst</Value>
+    </Setting>
+    <Setting Name="FieldValueManagement" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Management</Value>
+    </Setting>
+    <Setting Name="FieldItemIssues" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FormIssues</Value>
+    </Setting>
+    <Setting Name="ListTitleSavedLRFs" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Saved LRFs</Value>
+    </Setting>
+    <Setting Name="ListTitleAgreements" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Agreements</Value>
+    </Setting>
+    <Setting Name="FieldAssignedToLegal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Assigned_x0020_To_x0020_Legal</Value>
+    </Setting>
+    <Setting Name="ListTitleLegalCostCenterAssignment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Legal Cost Center Assignment</Value>
+    </Setting>
+    <Setting Name="FieldLegalCostCenterAssignmentGroup" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Group</Value>
+    </Setting>
+    <Setting Name="WorkFlowName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Legal Request Form Workflow</Value>
+    </Setting>
+    <Setting Name="FieldLastDeptApprover" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Last_x0020_Dept_x0020_Approver</Value>
+    </Setting>
+    <Setting Name="FieldLastFinancialApprover" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Last_x0020_Financial_x0020_Approver</Value>
+    </Setting>
+    <Setting Name="GroupPurchasingTeam" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Purchasing Team</Value>
+    </Setting>
+    <Setting Name="FieldRequestStatus" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Request_x0020_Status</Value>
+    </Setting>
+    <Setting Name="ListTitlePurchasingRequests" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Purchasing Request Forms</Value>
+    </Setting>
+    <Setting Name="FieldAgreementsLRFRequestor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LRF Requestor</Value>
+    </Setting>
+    <Setting Name="FieldAgreementContractNumber" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AgreementId</Value>
+    </Setting>
+    <Setting Name="FieldAgreementLRFTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LRF_X0020_Title</Value>
+    </Setting>
+    <Setting Name="FieldAgreementSupplier" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SAP Supplier Number</Value>
+    </Setting>
+    <Setting Name="FieldAgreementEffectiveDate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Effective_x0020_Date</Value>
+    </Setting>
+    <Setting Name="FieldAgreementExpirationDateRevised" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Expire_x0020_Date_x0020_Revised</Value>
+    </Setting>
+    <Setting Name="FieldAgreementNotToExceedValue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Total Amount</Value>
+    </Setting>
+    <Setting Name="FieldAgreementActualValue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Actual Value</Value>
+    </Setting>
+    <Setting Name="FieldAgreementLRFID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LRF Ref:ID</Value>
+    </Setting>
+    <Setting Name="FieldAgreementTransferToSRM" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TransferToSRM</Value>
+    </Setting>
+    <Setting Name="DefaultCurrency" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">USD</Value>
+    </Setting>
+    <Setting Name="CTPurchasingInfo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Purchasing Info</Value>
+    </Setting>
+    <Setting Name="FieldLRFLinkFilename" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LinkFilename</Value>
+    </Setting>
+    <Setting Name="FormTemplateUrlPurchasingInfo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/FormServerTemplates/Purchasing%20Info.xsn</Value>
+    </Setting>
+    <Setting Name="FieldAgreementPurchasingFromGenerated" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PurchasingFromGenerated</Value>
+    </Setting>
+    <Setting Name="FieldLegalOwner" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Legal_x0020_Owner</Value>
+    </Setting>
+    <Setting Name="ListTitleRequestStatus" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Request Status</Value>
+    </Setting>
+    <Setting Name="FieldLegalRequestStatus" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Legal_x0020_Request_x0020_Status</Value>
+    </Setting>
+    <Setting Name="FieldApproved" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Approved_x003f_</Value>
+    </Setting>
+    <Setting Name="FieldAgreementsLRFSubmitter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LRF Submitter</Value>
+    </Setting>
+    <Setting Name="FieldAgreementsBusinessContact" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Business Contact</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
