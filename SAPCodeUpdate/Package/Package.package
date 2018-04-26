@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="73609230-9e75-46a4-95e4-8a3021b0ac92" solutionId="73609230-9e75-46a4-95e4-8a3021b0ac92" resetWebServer="false" name="SAPCodeUpdate" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="860d9b61-e645-4cee-aca5-9183fac703ea" />
+  </features>
+</package>

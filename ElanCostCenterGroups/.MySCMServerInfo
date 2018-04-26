@@ -1,0 +1,10 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/ElanCostCenterGroups/ElanCostCenterGroups/
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=1973
+ElanCostCenterGroups.csproj;2354173111;1;1331666520;
+app.config;3832838275;1;1329179698;
+Constants.cs;3777788922;1;1329178962;
+Utils.cs;307159021;1;1331420853;
+CostCenterGroupsJob.cs;2645477033;1;1330733301;
+key.snk;2207923268;1;1318988962;

@@ -1,0 +1,9 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/ElanCostCenterGroups/SRMFileTransfer/
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=1957
+SRMFileTransfer.csproj;3469737458;1;1331666520;
+SRMFileTransferTimerJob.cs;2871939118;1;1328652710;
+Utils.cs;2228701735;1;1328915500;
+PurchasingForm.cs;1742901761;1;1328907300;
+key.snk;3378666057;1;1328138593;

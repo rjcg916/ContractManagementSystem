@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a21778f0-67e3-47bc-8041-ea8828c0ae0c" solutionId="a21778f0-67e3-47bc-8041-ea8828c0ae0c" resetWebServer="false" name="SRMFileTransfer" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="39bfa623-6aa2-4e6f-84bc-2ba1796f6795" />
+  </features>
+</package>

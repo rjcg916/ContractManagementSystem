@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a9c7e4e2-8d07-4468-a49c-ffadd038b087" solutionId="a9c7e4e2-8d07-4468-a49c-ffadd038b087" resetWebServer="false" name="CostCenterServices" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="21bfe7a7-fdd8-4d20-b1e9-9bcff1c834b4" />
+  </projectItems>
+</package>

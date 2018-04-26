@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="2211e35b-d1d2-4a22-bb5e-144c0fe7c0d3" solutionId="2211e35b-d1d2-4a22-bb5e-144c0fe7c0d3" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="UserCostCenters">
+    <features>
+        <featureReference itemId="e8671c7e-c86f-460b-9526-a12201a7108f" />
+    </features>
+</package>

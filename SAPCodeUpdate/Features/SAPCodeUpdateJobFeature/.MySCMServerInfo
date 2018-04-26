@@ -1,0 +1,7 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/ElanCostCenterGroups/SAPCodeUpdate/Features/SAPCodeUpdateJobFeature/
+SCMMainlineUUID=
+SCMBranchRepositoryID=4294967295
+SAPCodeUpdateJobFeature.Template.xml;3859630487;1;1328160144;
+SAPCodeUpdateJobFeature.EventReceiver.cs;1270296671;1;1329421567;
+SAPCodeUpdateJobFeature.feature;2546843174;1;1328161583;

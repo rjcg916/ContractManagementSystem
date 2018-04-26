@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Elan" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ALLOWEDREQUESTORSLIST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AllowedRequestorsForUser</Value>
+    </Setting>
+    <Setting Name="ALLOWEDREQUESTORLISTUSER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">User</Value>
+    </Setting>
+    <Setting Name="ALLOWEDREQUESTORLISTREQUESTOR" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Requestor</Value>
+    </Setting>
+    <Setting Name="COSTCENTERPREFIX" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CostCenter</Value>
+    </Setting>
+    <Setting Name="CMSPROFILEDEPTNUM" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DeptNum</Value>
+    </Setting>
+    <Setting Name="CMSPROFILECOSTCENTER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CostCenter</Value>
+    </Setting>
+    <Setting Name="CMSFINANCEGROUP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Finance Team</Value>
+    </Setting>
+    <Setting Name="CMSOWNERSGROUP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Contract Management System Owners</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

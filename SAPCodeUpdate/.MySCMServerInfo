@@ -1,0 +1,8 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/ElanCostCenterGroups/SAPCodeUpdate/
+SCMMainlineUUID=
+SCMBranchRepositoryID=4294967295
+SAPCodeUpdate.csproj;625788788;1;1331666520;
+SAPCodeUpdateTimerJob.cs;3404888538;1;1328571894;
+key.snk;3939178566;1;1328159631;
+Utils.cs;2951778654;1;1329424159;

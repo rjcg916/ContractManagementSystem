@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d9b7da2c-7400-402a-8889-f8af620121b4" solutionId="d9b7da2c-7400-402a-8889-f8af620121b4" resetWebServer="false" name="ElanCostCenterGroups" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="39a5294e-ceaa-47d3-8b63-424176c165bf" />
+  </features>
+</package>

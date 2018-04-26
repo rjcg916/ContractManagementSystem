@@ -1,0 +1,11 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/ElanCostCenterGroups/ElanCMSCommon/
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=1952
+ElanCMSCommon.csproj;790028949;1;1331666520;
+key.snk;1813058975;1;1328746349;
+Constants.cs;3834898594;1;1329413247;
+Utils.cs;175077277;1;1329424159;
+Impersonate.cs;3371580750;1;1328746420;
+SecurityUtils.cs;393279820;1;1331246924;
+SPListUtils.cs;2605738899;1;1328746444;

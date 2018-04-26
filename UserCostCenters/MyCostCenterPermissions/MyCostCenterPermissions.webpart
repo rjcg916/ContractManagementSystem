@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Elan.MyCostCenterPermissions.MyCostCenterPermissions, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">My Cost Center Permissions</property>
+        <property name="Description" type="string">Display Cost Center Related Permissions for a User</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

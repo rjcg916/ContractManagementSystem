@@ -1,0 +1,6 @@
+SCMBranch=WebGroup
+SCMRepository=WebGroup/CMS/Solutions/ElanCostCenterGroups/TestSAPCodeUpdate/
+SCMMainlineUUID={dcebcc1c-97b8-4112-aaac-ce956ca2663b}
+SCMBranchRepositoryID=1978
+SAPCodeUpdateTest.csproj;1330195986;1;1331666520;
+Program.cs;3752832339;1;1328561693;
